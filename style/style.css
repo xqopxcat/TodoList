@@ -1,0 +1,28 @@
+.main{
+	background-color: #FAFAFA;
+	height:calc(100% - 80px);
+}
+
+.btn-space{
+	margin-right: 10px;
+}
+
+.btn-fixed{
+	background-color: #E8F1F5;
+	width: 100px;
+}
+
+.todo-header{
+	color:#303a3c;
+	background-color:#E8F1F5;
+}
+
+.todo-footer{
+	height: 100px;
+	padding:30px;
+	background-color:#005691;
+}
+
+.tab-header{
+	padding-top:20px;
+}
