@@ -12,6 +12,10 @@
 	width: 100px;
 }
 
+.btn-fixed:focus{
+	background-color: #2994B2;
+}
+
 .todo-header{
 	color:#303a3c;
 	background-color:#E8F1F5;
