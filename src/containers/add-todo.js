@@ -17,7 +17,6 @@ class AddTodo extends Component{
 		event.preventDefault();
 		if(this.state.term != ''){
 			this.props.addTodo(this.state.term);
-			this.props.setType(this.state.type)
 			this.setState({ term: '' });
 		}
 		
